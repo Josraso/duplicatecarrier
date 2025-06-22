@@ -4,7 +4,7 @@
  * Permite duplicar transportistas existentes con todos sus datos
  * Compatible con PrestaShop 1.7.x y 8.x
  * 
- * @version 2.0.0
+ * @version 2.0.1
  * @author Custom Module - Versión corregida definitiva
  */
 
